@@ -1,7 +1,5 @@
 <?php
 
-echo "Why, hello there!";
-
-phpinfo();
+echo "Hi there, this is just me testing!";
 
 ?>
